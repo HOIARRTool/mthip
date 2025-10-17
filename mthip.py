@@ -8,7 +8,7 @@ import requests
 from io import BytesIO
 
 # ------------------------------ CONFIG ------------------------------
-st.set_page_config(layout="wide", page_title="KPI Dashboard", page_icon="📊")
+st.set_page_config(layout="wide", page_title="MCH : THIP", page_icon="📊")
 st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700&display=swap');
